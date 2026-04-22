@@ -6,8 +6,10 @@ April 22nd :
   what it covers : 
   1.intuitive understanding of differentiables/slope/derivative 
   2.practical examples to understand what derivative of a loss function wrt to a variable is 
-  3.creation of data strcuture to mimic mathematical expressions for neural networks 
-  4.made me understand forward pass and started laying grounds for gradient/backward pass 
+  3.creation of data structure to mimic mathematical expressions for neural networks 
+  4.understand forward pass and started laying grounds for gradient/backward pass 
+  5. visual representation of expressions in the form of graph - micrograd_grap.png
+  
 
 
 
